@@ -1,0 +1,1 @@
+docker exec -it testapp bash -c "echo 'It works!'"
